@@ -84,3 +84,12 @@ body {
 
 picture {
   display: flex; }
+
+.attribution {
+  margin-top: 1rem;
+  font-size: 1.1rem; }
+  .attribution a:link,
+  .attribution a:visited {
+    color: #3c8067;
+    text-decoration: none;
+    font-family: "Fraunces", serif; }

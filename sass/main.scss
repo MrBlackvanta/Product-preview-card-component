@@ -114,3 +114,15 @@ body {
 picture {
   display: flex;
 }
+
+.attribution {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+
+  a:link,
+  a:visited {
+    color: $color-cyan-dark;
+    text-decoration: none;
+    font-family: "Fraunces", serif;
+  }
+}
